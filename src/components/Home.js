@@ -71,8 +71,8 @@ const videos = [
         channel: 'Lucas Nhimi',
         views: '11 mi de visualizações',
         date: 'há 1 semana',
-        avatar: '/images/avatar.jpeg',
-        thumb: '/images/thumb1.png',
+        avatar: '/clone-ui/images/avatar.jpeg',
+        thumb: '/clone-ui/images/thumb1.png',
     },
     {
         id: 2,
@@ -81,8 +81,8 @@ const videos = [
         channel: 'Lucas Nhimi',
         views: '957 mil visualizações',
         date: 'há 1 semana',
-        avatar: '/images/avatar.jpeg',
-        thumb: '/images/thumb2.png',
+        avatar: '/clone-ui/images/avatar.jpeg',
+        thumb: '/clone-ui/images/thumb2.png',
     },
     {
         id: 3,
@@ -91,8 +91,8 @@ const videos = [
         channel: 'Lucas Nhimi',
         views: '106 mil visualizações',
         date: 'há 1 semana',
-        avatar: '/images/avatar.jpeg',
-        thumb: '/images/thumb3.png',
+        avatar: '/clone-ui/images/avatar.jpeg',
+        thumb: '/clone-ui/images/thumb3.png',
     },
     {
         id: 4,
@@ -101,8 +101,8 @@ const videos = [
         channel: 'Lucas Nhimi',
         views: '5,6 mi de visualizações',
         date: 'há 1 semana',
-        avatar: '/images/avatar.jpeg',
-        thumb: '/images/thumb4.png',
+        avatar: '/clone-ui/images/avatar.jpeg',
+        thumb: '/clone-ui/images/thumb4.png',
     },
     {
         id: 5,
@@ -111,8 +111,8 @@ const videos = [
         channel: 'Lucas Nhimi',
         views: '2,2 mi de visualizações',
         date: 'há 1 semana',
-        avatar: '/images/avatar.jpeg',
-        thumb: '/images/thumb5.png',
+        avatar: '/clone-ui/images/avatar.jpeg',
+        thumb: '/clone-ui/images/thumb5.png',
     },
     {
         id: 6,
@@ -120,8 +120,8 @@ const videos = [
         channel: 'Lucas Nhimi',
         views: '233 mil visualizações',
         date: 'há 1 semana',
-        avatar: '/images/avatar.jpeg',
-        thumb: '/images/thumb6.png',
+        avatar: '/clone-ui/images/avatar.jpeg',
+        thumb: '/clone-ui/images/thumb6.png',
     },
     {
         id: 7,
@@ -130,8 +130,8 @@ const videos = [
         channel: 'Lucas Nhimi',
         views: '118 mil visualizações',
         date: 'há 1 semana',
-        avatar: '/images/avatar.jpeg',
-        thumb: '/images/thumb7.png',
+        avatar: '/clone-ui/images/avatar.jpeg',
+        thumb: '/clone-ui/images/thumb7.png',
     },
     {
         id: 8,
@@ -140,8 +140,8 @@ const videos = [
         channel: 'Lucas Nhimi',
         views: '1,9 mi de visualizações',
         date: 'há 1 semana',
-        avatar: '/images/avatar.jpeg',
-        thumb: '/images/thumb8.png',
+        avatar: '/clone-ui/images/avatar.jpeg',
+        thumb: '/clone-ui/images/thumb8.png',
     },
 ];
 
@@ -161,7 +161,7 @@ function Home({ darkMode, setDarkMode }) {
                     >
                         <MenuIcon />
                     </IconButton>
-                    <img src={theme.palette.type ==='dark' ? '/images/branco.png':'/images/preto.png'} 
+                    <img src={theme.palette.type ==='dark' ? '/clone-ui/images/branco.png':'/clone-ui/images/preto.png'} 
                     alt='logo' className={classes.logo} />
                     <div className={classes.grow} />
 
