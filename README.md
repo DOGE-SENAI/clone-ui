@@ -38,13 +38,14 @@
 
 - [React.Js ](https://pt-br.reactjs.org)
 
-- [Material-UI ](https://v4.mui.com)
+- Yarn
 
-  - Crie o Projeto usando os seguinte comandos **após** insatalar o Node.Js
+
+
+  - Instale usando o seguinte comando **após** insatalar o Node.Js
 
     ```bash
-    $ npx creat-react-app
-    $ npm install @material-ui/core
+    $ npm install -g yarn
     ```
 
 
@@ -56,7 +57,7 @@
 $ git clone https://github.com/DOGE-SENAI/Page-Web-Senai.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd page-web-senai
+$ cd clone-ui
 
 # Use o seguinte comando para gerar a pasta 'node_modules', onde estão os módulos necessários para o projeto funcionar
 $ npm install
@@ -69,6 +70,9 @@ $ npm upgrade
 $ yarn start
 
 # O servidor inciará na porta 3000 - acesse em seu browser: https://localhost:3000
+
+# Instale os arquivos do Material-UI
+$ npm install @material-ui/core
 ```
 
 
