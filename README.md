@@ -1,4 +1,4 @@
-<h1 align="center">Clone Youtube</h1>
+<h1 align="center">React-MaterialUI</h1>
 
 
 
@@ -54,7 +54,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DOGE-SENAI/Page-Web-Senai.git
+$ git clone https://github.com/DOGE-SENAI/clone-ui.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd clone-ui
