@@ -1,4 +1,4 @@
-<h1 align="center">Cursos FIC SENAI</h1>
+<h1 align="center">Clone Youtube</h1>
 
 
 
@@ -7,25 +7,25 @@
 
 
 <h2 align="center">
-    🌐 Site sobre cursos FIC com REACT JS
+    🌐 Site Clone do YouTube usando REACT JS e Material-UI
 </h2>
 
 
 
-<p>🚀 Aplicativo feito com React JS, que exibe dados de alguns <a href="https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623">cursos FIC</a> (Formação Inicial Continuada) disponíveis na <a href="https://suicobrasileira.sp.senai.br/">Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle</a>.</p>
+<p>🚀 Página inicial do YouTube feita com React JS e Material-UI, com o intuito de reproduzil-la utilizando estes frameworks e suas funcionalidades a fins de aprendizado e conhecimento frontend.</p>
 
 
 
 ## :hammer: Tecnologias e Ferramentas Utilizadas
 
-<img src="https://img.shields.io/static/v1?label=React JS&message=17.0.2&color=673AB7&style=for-the-badge&logo=React"/> <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=FDDA0D&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=FF5733&style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=2965f1&style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=2159c1&style=for-the-badge&logo=Visual Studio Code"/>
+<img src="https://img.shields.io/static/v1?label=React JS&message=17.0.2&color=673AB7&style=for-the-badge&logo=React"/> <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=FDDA0D&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=FF5733&style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=2159c1&style=for-the-badge&logo=Visual Studio Code"/>
 
 
 
 - **React JS**
 - **JavaScript**
 - **HTML**
-- **CSS**
+- **Material-UI
 - **Visual Studio Code**
 
 
