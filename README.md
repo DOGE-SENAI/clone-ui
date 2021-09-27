@@ -36,12 +36,15 @@
 
 - [Node.Js ](https://nodejs.org/pt-br/)
 
-- Yarn
+- [React.Js ](https://pt-br.reactjs.org)
 
-  - Instale usando o seguinte comando **após** insatalar o Node.Js
+- [Material-UI ](https://v4.mui.com)
+
+  - Crie o Projeto usando os seguinte comandos **após** insatalar o Node.Js
 
     ```bash
-    $ npm install -g yarn
+    $ npx creat-react-app
+    $ npm install @material-ui/core
     ```
 
 
