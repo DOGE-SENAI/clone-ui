@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+<h1 align="center">Cursos FIC SENAI</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" style="">	
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h2 align="center">
+    🌐 Site sobre cursos FIC com REACT JS
+</h2>
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+<p>🚀 Aplicativo feito com React JS, que exibe dados de alguns <a href="https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623">cursos FIC</a> (Formação Inicial Continuada) disponíveis na <a href="https://suicobrasileira.sp.senai.br/">Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle</a>.</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :hammer: Tecnologias e Ferramentas Utilizadas
 
-### `yarn eject`
+<img src="https://img.shields.io/static/v1?label=React JS&message=17.0.2&color=673AB7&style=for-the-badge&logo=React"/> <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=FDDA0D&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=FF5733&style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=2965f1&style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=2159c1&style=for-the-badge&logo=Visual Studio Code"/>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- **React JS**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **Visual Studio Code**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### :heavy_check_mark: Pré-requisitos
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Para rodar em sua máquina**, você vai precisar ter instalado as seguintes ferramentas: 
 
-### Code Splitting
+- [Node.Js ](https://nodejs.org/pt-br/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Yarn
 
-### Analyzing the Bundle Size
+  - Instale usando o seguinte comando **após** insatalar o Node.Js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+    ```bash
+    $ npm install -g yarn
+    ```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### :runner: Rodando a Aplicação
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+# Clone este repositório
+$ git clone https://github.com/DOGE-SENAI/Page-Web-Senai.git
 
-### Deployment
+# Acesse a pasta do projeto no terminal/cmd
+$ cd page-web-senai
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Use o seguinte comando para gerar a pasta 'node_modules', onde estão os módulos necessários para o projeto funcionar
+$ npm install
 
-### `yarn build` fails to minify
+# Caso o comando anterior não funcione, use a seguinte alternativa
+$ npm init -y
+$ npm upgrade
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Execute a aplicação
+$ yarn start
+
+# O servidor inciará na porta 3000 - acesse em seu browser: https://localhost:3000
+```
+
+
+
+## :busts_in_silhouette: Contribuição
+
+- [Cauã Rodrigues](https://github.com/CauaRodrigues)
+
+- [Gabriel Mariano](https://github.com/Gabriel-MarianoJ)
+
+- [Gabriel dos Santos](https://github.com/GabrielGSF)
+
+- [João Fernando](https://github.com/Joaocaetano1105)
+
+- [João Ozorio](https://github.com/odrelvic)
+
+  
+
+
+
+  <p align="center" style="font-size:22px;"><b> &copy;DOGE</b></p>
+
