@@ -18,14 +18,14 @@
 
 ## :hammer: Tecnologias e Ferramentas Utilizadas
 
-<img src="https://img.shields.io/static/v1?label=React JS&message=17.0.2&color=673AB7&style=for-the-badge&logo=React"/> <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=FDDA0D&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=FF5733&style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=2159c1&style=for-the-badge&logo=Visual Studio Code"/>
+<!--<img src="https://img.shields.io/static/v1?label=React JS&message=17.0.2&color=673AB7&style=for-the-badge&logo=React"/> <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=FDDA0D&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=FF5733&style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=2159c1&style=for-the-badge&logo=Visual Studio Code"/>-->
 
 
 
 - **React JS**
 - **JavaScript**
 - **HTML**
-- **Material-UI
+- **Material-UI**
 - **Visual Studio Code**
 
 
